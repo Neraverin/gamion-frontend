@@ -1,6 +1,8 @@
 import '@mantine/core/styles.css';
 import 'mantine-datatable/styles.layer.css';
 import './layout.css';
+import '@mantine/notifications/styles.css';
+
 
 import React from 'react';
 import { MantineProvider, ColorSchemeScript } from '@mantine/core';
